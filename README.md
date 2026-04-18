@@ -1,7 +1,9 @@
 # Superstore-Sales-EDA
-I used Tableau to identify sales trends for a superstore. My analysis was guided by the book Visual Analytics with Tableau by Alexander Loth. 
+I used Tableau to identify sales trends for a superstore. My analysis was guided by the book Visual Analytics with Tableau by Alexander Loth. Click [here](https://public.tableau.com/views/SuperstoreEDA_17750861450380/SalesOverviewDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to see how I explored visual analytics on Tableau. 
 
 ## Executive Summary:
+
+In Tableau Public, I used data visualizations to explore a superstore sales dataset.
 
 ## Business Problem:
 

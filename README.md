@@ -5,7 +5,15 @@ I used Tableau to identify sales trends for a superstore. My analysis was guided
 
 ## Executive Summary:
 
-In Tableau Public, I used data visualizations to explore a superstore sales dataset.
+In Tableau Public, I used data visualizations to explore a superstore sales dataset. After an exploratory data analysis, I summarized my findings in two interactive dashboards and in a Tableau story. During the EDA, I discovered important sales and profit trends the company can use to guide their business goals for the coming year and increase overall sales and profits. The analysis revealed several sub-categories with the high sales to profit ratios, including the rapidly growing copiers sub-category that has produced the highest overall profit in the last year. However, I discovered several sub-categories of products, notably the high-selling tables category, yield no profits and actually cost the company to sell. I also identified areas of current strengths, including overall growth of sales over the last four years, high sales and profits in the east and west regions, particularly in cities with high urban populations, and strong seasonal sales trends around holidays and the back-to-school time period. I presented the following business recommendations to the superstore:
+
+1) Add a savings or rewards club for high profit consumable products
+
+2) Combat profit loss by making changes to unprofitable sub-categories
+   
+3) Research factors that led to the recent rapid increase in sales for copiers
+
+4) Continue current levels of marketing for sub-categories with high sales and products
 
 ## Business Problem:
 
@@ -59,15 +67,15 @@ data visualizations, dashboards, stories, filters, analytics, calculated fields,
 
 ### Documents: 
 
-1) To summarize my data analysis process and present major findings, I created a Tableau story with interactive data visualizations. 
+1) To summarize my data analysis process and present major findings, I created a Tableau story called [Exploring Visual Analytics with Tableau](https://public.tableau.com/shared/32MKWCQTK?:display_count=n&:origin=viz_share_link) with interactive data visualizations, my interpretations of charts I created, and an outline of my step-by-step process for the Exploratory Data Analysis. 
 
-2) To share information with the company, I produced two linked interactive dashboards containing useful data visualizations to explore.
+2) To share information with the company, I produced two linked interactive dashboards called [Sales Overview](https://public.tableau.com/shared/JGG7JHKH4?:display_count=n&:origin=viz_share_link) and [Profit Breakdown](https://public.tableau.com/shared/46MRGB6DG?:display_count=n&:origin=viz_share_link), which contain useful data visualizations to explore. 
 
-3) I published the entire exploratory data analysis on Tableau Public. 
+3) I published my entire exploratory data analysis called [Superstore EDA](https://public.tableau.com/views/SuperstoreEDA_17750861450380/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) on Tableau Public. 
 
 ### Business Recommendations: 
 
-1) Strive to increase sales for products with high profit ratios to maximize profits. Many of these sub-categories have a wide range of consumable products; research ways to keep customers coming back for future purchases, such as a savings or reward club. 
+1) Strive to increase sales for products with high profit ratios to maximize profits. Many of these sub-categories have a wide range of consumable products; consider ways to keep customers coming back for future purchases, such as a savings or reward club. 
 
 2) Investigate product sub-categories that have negative product ratios. Changes should be made to combat profit loss.
 
@@ -79,4 +87,8 @@ data visualizations, dashboards, stories, filters, analytics, calculated fields,
 
 1) Do additional analysis at a regional level. This could provide insight as to why the west and east regions have been so successful, and this could lead to changes to increase sales and profits in the central and south regions.
 
-2) The analysis revealed strong seasonal sales trends. Do additional analysis of sub-categories over the year at all levels. This would reveal the highest selling sub-categories seasonally and could provide marketing insights. 
+2) The analysis revealed strong seasonal sales trends. Do additional analysis of sub-categories over the year at all levels. This would reveal the highest selling sub-categories seasonally and could provide marketing insights.
+
+3) Research further into unsuccessful product sub-categories to identify factors and specific products that could lead to changes and gains in profit.
+   
+4) Adding data from marketing and performing a more in-depth EDA could reveal insights to increase sales. 

@@ -59,7 +59,7 @@ data visualizations, dashboards, stories, filters, analytics, calculated fields,
 
 7) Chairs, phones, storage, tables and binders are the highest selling sub-categories business wide and all except tables have moderate sales to profit ratios. However, they do not have the highest profit ratios for the business. In fact, tables do not produce a profit, but a deficit with a profit ratio of -0.0853, meaning that every $100 of tables sold costs the company $8.53.
 
-8)Tables have the lowest profit ratio of all sub-categories. The profits for this sub-category have decreased steadily over the last 4 years. Other sub-categories that have led to deficits within the last year are bookcases, supplies and machines.  
+8) Tables have the lowest profit ratio of all sub-categories. The profits for this sub-category have decreased steadily over the last 4 years. Other sub-categories that have led to deficits within the last year are bookcases, supplies and machines.  
   
 9) Paper, envelopes, labels and copiers are the sub-categories that have the highest profit ratios, though they are not as high selling as other categories, and thus produce less overall profit.
     

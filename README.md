@@ -41,7 +41,17 @@ data visualizations, dashboards, stories, filters, analytics, calculated fields,
 
 4) High sales do not always equal high profits for the business. For instance, in the east region sales of furniture were over $210,000 but the profit from this category was only $3,444.74. Further, in the central region furniture sales over $160,0000 produced no profit and caused the company to lose $2,082.21.
 
-5) At the state level, 
+5) At the state/province level, the top three for sales are California, New York, and Texas. California and New York have significantly higher sales than all the others, and they are the only states that have made over $175,000 in sales. Provinces in Canada have low sales yields with some provinces' sales being as low as $132.40 in Saskatchewan.
+
+6) At the city level, New York City has the highest sales with sales over $250,000 sales and a $62,000 profit. Los Angeles, Seattle, and San Francisco also have strong sales between $100,000 and $200,000 and profits ranging from $15,000 to $30,000. Cities with higher urban populations have greater sales.
+
+7) Chairs, phones, storage, tables and binders are the highest selling sub-categories business wide and all except tables have moderate sales to profit ratios. However, they do not have the highest profit ratios for the business. In fact, tables do not produce a profit, but a deficit with a profit ratio of -0.0853, meaning that every $100 of tables sold costs the company $8.53.
+
+8)Tables have the lowest profit ratio of all sub-categories. The profits for this sub-category have decreased steadily over the last 4 years. Other sub-categories that have led to deficits within the last year are bookcases, supplies and machines.  
+  
+9) Paper, envelopes, labels and copiers are the sub-categories that have the highest profit ratios, though they are not as high selling as other categories, and thus produce less overall profit.
+    
+10) Copiers are the sub-category that has shown the strongest growth in sales and profits over the last 4 years. With its high profit ratio of 0.3721, this is a sub-category with strong potential for producing increasing profits for the company. In the past year, copiers have produced the highest amounts of profit for the company, even though they do not have the highest sales. 
 
 ### Documents: 
 
@@ -53,4 +63,16 @@ data visualizations, dashboards, stories, filters, analytics, calculated fields,
 
 ### Business Recommendations: 
 
+1) Strive to increase sales for products with high profit ratios to maximize profits. Many of these sub-categories have a wide range of consumable products; research ways to keep customers coming back for future purchases, such as a savings or reward club. 
+
+2) Investigate product sub-categories that have negative product ratios. Changes should be made to combat profit loss.
+
+3) Consider looking into factors driving the increase in sales for copiers over the last four years.
+   
+4) Continue current levels of marketing for sub-categories and areas that have high sales and profits. 
+
 ## Next Steps: 
+
+1) Do additional analysis at a regional level. This could provide insight as to why the west and east regions have been so successful, and this could lead to changes to increase sales and profits in the central and south regions.
+
+2) The analysis revealed strong seasonal sales trends. Do additional analysis of sub-categories over the year at all levels. This would reveal the highest selling sub-categories seasonally and could provide marketing insights. 

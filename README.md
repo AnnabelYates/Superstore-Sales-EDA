@@ -3,7 +3,7 @@ I used Tableau to identify sales trends for a superstore. My analysis was guided
 
 To summarize my data analysis process and present major findings, I created a Tableau story called [Exploring Visual Analytics with Tableau](https://public.tableau.com/shared/32MKWCQTK?:display_count=n&:origin=viz_share_link) with interactive data visualizations, my interpretations of charts I created, and an outline of my step-by-step process for the Exploratory Data Analysis. 
 
-To share information with the company, I produced two linked interactive dashboards called [Sales Overview](https://public.tableau.com/shared/JGG7JHKH4?:display_count=n&:origin=viz_share_link) and [Profit Breakdown](https://public.tableau.com/shared/46MRGB6DG?:display_count=n&:origin=viz_share_link), which contain useful data visualizations to explore. 
+To share information with the company, I produced two interactive dashboards called [Sales Overview](https://public.tableau.com/shared/JGG7JHKH4?:display_count=n&:origin=viz_share_link) and [Profit Breakdown](https://public.tableau.com/shared/46MRGB6DG?:display_count=n&:origin=viz_share_link), which contain useful data visualizations to explore. 
 
 I published my entire exploratory data analysis called [Superstore EDA](https://public.tableau.com/views/SuperstoreEDA_17750861450380/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) on Tableau Public. 
 
